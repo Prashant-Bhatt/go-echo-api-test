@@ -1,5 +1,5 @@
 # go-echo-api-test
-Go server with api test with unit testing
+Go server with api test package for unit testing
 Unit testing with mocking objects
 
 Conatains One Post and one Get function and unit test functions for both of these
